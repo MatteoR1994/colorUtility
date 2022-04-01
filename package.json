@@ -1,0 +1,19 @@
+{
+  "name": "@matteor1994/color-utility",
+  "version": "1.0.1",
+  "description": "just a little color utility library for web dev",
+  "main": "color-utility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatteoR1994/colorUtility.git"
+  },
+  "author": "MatteoR1994",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatteoR1994/colorUtility/issues"
+  },
+  "homepage": "https://github.com/MatteoR1994/colorUtility#readme"
+}
