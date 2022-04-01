@@ -1,6 +1,6 @@
 /**
  * Set the opacity of a hex color
- * @param hexColor - the hex color code without the # sign.
+ * @param hexColor - the hex color code with the # sign.
  * @param opacity - The opacity of the color.
  * @returns The hex color with the opacity applied.
  */
